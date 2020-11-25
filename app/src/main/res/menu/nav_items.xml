@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/user"
+        android:icon="@mipmap/user"
+        android:title="@string/nav_user" />
+    <item
+        android:id="@+id/deuda"
+        android:icon="@mipmap/deuda"
+        android:title="@string/nav_deuda" />
+    <item
+        android:id="@+id/carrito"
+        android:icon="@mipmap/carrito"
+        android:title="@string/nav_comprar" />
+    <item
+        android:id="@+id/lista"
+                android:icon="@mipmap/list"
+        android:title="@string/nav_list" />
+    <item
+        android:id="@+id/money"
+        android:icon="@mipmap/money"
+        android:title="@string/nav_dinero" />
+</menu>
